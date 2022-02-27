@@ -1,0 +1,12 @@
+*{
+    /*-fx-background-color: crimson;*/
+}
+#clear_server_log_button{
+    -fx-background-color: lightgreen;
+}
+#clear_client_log_button{
+    -fx-background-color: lightcoral;
+}
+#send_button{
+    -fx-background-color: lightblue;
+}
